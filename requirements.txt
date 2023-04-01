@@ -1,0 +1,10 @@
+fastapi
+unicorn
+autopep8
+pydantic
+SQLAlchemy
+alembic
+pymysql
+python-jose[cryptography]
+passlib[bcrypt]
+python-dotenv
